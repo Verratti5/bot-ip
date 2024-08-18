@@ -5,10 +5,10 @@ from telebot import types
 from datetime import datetime
 
 
-token = "7397226337:AAFtk9ZuCLrNtyNGJEkRiv1iA-YHOOax6Mo"
+token = "" #token 
 bot = telebot.TeleBot(token)
 
-owner = 6310618035  
+owner = 6310618035  #id
 
 admins = [owner]
 

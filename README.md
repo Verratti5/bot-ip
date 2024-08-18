@@ -64,4 +64,4 @@ instagram: 0xi0m / telegram: @Verratti5 / My channel: @llllIllIIl
 6. python3 ip.py
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-![bot-ip]([https://github.com/Verratti5/bot-ip/blob/main/photo_2024-08-18_20-42-36.jpg]
+## ![image]([https://github.com/Verratti5/bot-ip/blob/main/photo_2024-08-18_20-42-36.jpg]
